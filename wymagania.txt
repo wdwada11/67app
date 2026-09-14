@@ -1,4 +1,4 @@
-# Wymagania funkcjonalne:
+Wymagania funkcjonalne:
 - Wprowadzanie danych
 - Generowanie podsumowań przez AI
 - Eksport i udostępnianie gotowych notatek
