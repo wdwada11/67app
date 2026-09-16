@@ -1,0 +1,7 @@
+Dane wejściowe: notatki z lekcji/internetu
+
+Walidacja:
+- sprawdzenie pustych zapytań,
+- limit zapytań i znaków,
+- sanityzacja tekstu aby ograniczyć ilość tokenów,
+- wykrywanie prompt injection za pomocą regex
