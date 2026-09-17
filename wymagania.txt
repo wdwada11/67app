@@ -2,3 +2,8 @@ Wymagania funkcjonalne:
 - Wprowadzanie danych
 - Generowanie podsumowań przez AI
 - Eksport i udostępnianie gotowych notatek
+
+Wymagania niefunkcjonalne:
+- Prosty i czytelny interfejs
+- Czytylne komunikaty o błędach
+- Szybkie działanie aplikacji
